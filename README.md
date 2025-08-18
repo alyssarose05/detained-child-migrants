@@ -6,6 +6,7 @@ An analysis of children detained by the U.S. border from January 2015 to May 202
 - Data School DSNY9 application: https://public.tableau.com/app/profile/alyssa.ayala/viz/UnaccompaniedMigrantChildren/Dashboard1
 
 ## Credits
+All migrant data was obtained from a repository owned by the **New York Times.**  
 For the datasets in the [Borrowed](https://github.com/alyssarose05/detained-child-migrants/tree/main/Borrowed) folder:
 - raw_data.csv: https://github.com/nytimes/hhs-child-migrant-data
 - Countries by continents.csv: https://www.kaggle.com/datasets/hserdaraltan/countries-by-continent
