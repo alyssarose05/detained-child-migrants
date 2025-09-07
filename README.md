@@ -10,7 +10,7 @@ An analysis of children detained by the U.S. border from January 2015 to May 202
 ## Credits
 
 All migrant data was obtained from the **New York Times.**
-
+For the files in the [Datasets](https://github.com/alyssarose05/detained-child-migrants/tree/main/Datasets) folder:
 * `data.csv`: https://github.com/nytimes/hhs-child-migrant-data
 * `continents.csv`: https://www.kaggle.com/datasets/hserdaraltan/countries-by-continent
-* `final\_df.csv` is the resulting combined dataset.
+* `final_df.csv` is the resulting combined dataset from the SQL work done by me, [alyssarose05](https://github.com/alyssarose05)
